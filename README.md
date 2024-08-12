@@ -1,3 +1,10 @@
+🚧 Notice
+
+Date: 2024 August
+
+Please be advised that the documentation, APIs, libraries, or tools you are currently using in this repository may be outdated. 
+
+
 ## IG Web API B2B Vendor Sample Application
 [![Build Status](https://travis-ci.org/IG-Group/ig-webapi-vendor-sample.svg?branch=master)](https://travis-ci.org/IG-Group/ig-webapi-vendor-sample)
 
